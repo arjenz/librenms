@@ -116,8 +116,8 @@ Ensure date.timezone is set in php.ini to your preferred time zone.
 
 === "Ubuntu 22.04"
     ```bash
-    vi /etc/php/8.1/fpm/php.ini
-    vi /etc/php/8.1/cli/php.ini
+    vi /etc/php/8.2/fpm/php.ini
+    vi /etc/php/8.2/cli/php.ini
     ```
 
 === "Ubuntu 20.04"
